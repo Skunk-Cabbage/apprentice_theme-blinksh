@@ -2,4 +2,3 @@ t.prefs_.set('color-palette-overrides',["#252525", "#be7472", "#709772", "#98977
 t.prefs_.set('foreground-color', "#c8c8c8");
 t.prefs_.set('background-color', "#313131");
 t.prefs_.set('cursor-color', "#c7c7c7");
-t.prefs_.set('cursor_text_color', "#feffff");
