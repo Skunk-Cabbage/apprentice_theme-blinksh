@@ -3,5 +3,3 @@ t.prefs_.set('foreground-color', "#c8c8c8");
 t.prefs_.set('background-color', "#313131");
 t.prefs_.set('cursor-color', "#c7c7c7");
 t.prefs_.set('cursor_text_color', "#feffff");
-t.prefs_.set('selection_foreground', "#3e3e3e");
-t.prefs_.set('selection_background', "#c1ddff");
